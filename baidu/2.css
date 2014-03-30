@@ -1,0 +1,26 @@
+.wrap{
+text-align:center;
+font-size:15px;
+font-family:"宋体";
+color:blue;
+}
+.wrap1{
+bottom:0;
+text-decoration:underline;
+font-size:10px;
+font-family:"宋体";
+text-align:center;
+vertical-align:bottom;
+color:blue;
+}
+
+.wrap a:link{
+font-family:"宋体";
+text-decoration:underline;
+color:blue;
+}
+.wrap a:visited{
+font-family:"宋体";
+text-decoration:underline;
+color:blue;
+}
